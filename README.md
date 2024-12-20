@@ -15,22 +15,22 @@ The admin page is:
 
 Below are the features and sections of the admin panel that are visible:
 
-- **Facility**: Dashboard  
-- **Person**: Create User  
-- **Book Account**: Chart Of Accounts  
-- **Insights**: New Property  
-- **Gesture**: Property Sale Voucher  
-- **Input**: Installment Receipt Voucher  
-- **Refresh**: Property Re Purchase Voucher  
-- **Account Balance**: Cheque Issue Voucher  
-- **Credit Card**: Cheque Receive Voucher  
-- **Content Paste**: Reports  
-- **Library Books**: Cash Receipt  
-- **Bubble Chart**: Cash Payment  
-- **Book Account Outline**: Journal Vouchers  
-- **VPN Key**: Cash Rec/Pay Vouchers  
-- **Person**: Main Setup  
-- **Nature**: Additional Setup
+-  Dashboard  
+-  Create User  
+-  Chart Of Accounts  
+-  New Property  
+-  Property Sale Voucher  
+-  Installment Receipt Voucher  
+-  Property Re Purchase Voucher  
+-  Cheque Issue Voucher  
+-  Cheque Receive Voucher  
+-  Reports  
+-  Cash Receipt  
+-  Cash Payment  
+-  Journal Vouchers  
+-  Cash Rec/Pay Vouchers  
+-  Main Setup  
+-  Additional Setup
 
 ## Steps
 Use Google Dorks to search for sensitive sites (e.g., admin control panels). 
